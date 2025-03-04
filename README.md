@@ -22,11 +22,6 @@ Currently based in Japan, I am fluent in 'Chinese' and 'Japanese', with intermed
 - Contribute to innovative IT projects in tech companies or multinational organizations.
 - Leverage my sales experience to bridge the gap between technology and business needs.
 
-🔥 Projects
-Here are some projects I’m working on to showcase my skills:
-- [Trade Data Analysis](link): A Python-based project analyzing international trade data and generating visual reports.
-- [Market Trend Scraper](link): A web scraper using BeautifulSoup and Scrapy to collect market data, visualized with Matplotlib.
-- [Personal Portfolio Website](link): A personal website built with HTML, CSS, and JavaScript to showcase my projects and skills.
 📫 How to Reach Me
 - Email: liud76942@gmail.com
 - LinkedIn: [Annie Liu](https://www.linkedin.com/in/your-profile)
