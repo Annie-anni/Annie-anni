@@ -1,12 +1,40 @@
-- 👋 Hi, I’m @Annie-anni
-- 👀 I’m interested in ...International trade,IT development,and creative entrepreneurship.
-- 🌱 I’m currently learning ...Python programming and data analysis to prepare for future career development. I'm also self-studying other programming languaes and tools to enhance my professional kills.
-- 💞️ I’m looking to collaborate on ...Innovative IT solutions and expanding international trade networks.
-- 📫 How to reach me ... liud76942@gmail.com
-- 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ...Besides coffee culture and snowboarding,I have a strong interest in languages and primarily enhance my skills through self-study.I'm fluent in Chinese and Japanese,speak some English,and am actively improving my English proficiency.I'm also interested in French and currently using my spare time to learn it.
+👋 Hi, I’m Annie!
 
-<!---
-Annie-anni/Annie-anni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 About Me
+I am a passionate and self-motivated IT enthusiast currently transitioning into the tech industry. With a solid foundation in 'Python programming' and 'data analysis', I am actively enhancing my skills to pursue a career in IT development. My experience in sales at an automotive company has honed my communication, problem-solving, and customer-focused mindset, which I now aim to apply in the tech field.
+
+Currently based in Japan, I am fluent in 'Chinese' and 'Japanese', with intermediate proficiency in 'English' (actively improving!). I am open to relocating internationally for the right opportunity and excited to contribute to innovative projects in a global environment.
+
+🛠️ Skills & Tools
+- Programming: Python (Pandas, NumPy, Matplotlib), SQL, JavaScript (learning).
+- Data Analysis: Data cleaning, visualization, and basic machine learning (Scikit-learn).
+- Backend Development: Flask, Django (learning).
+- Tools: Git, VS Code, Jupyter Notebook, Docker (learning).
+- Languages: Chinese (Native), Japanese (Fluent), English (Intermediate).
+
+🌱 Currently Learning
+- Advanced Python programming and data analysis.
+- Exploring web development (HTML, CSS, JavaScript) and database management (SQL).
+- Improving my English proficiency for better collaboration in international teams.
+
+ 💞️ Career Goals
+- Transition into a 'junior developer' or 'data analyst' role, focusing on data-driven solutions.
+- Contribute to innovative IT projects in tech companies or multinational organizations.
+- Leverage my sales experience to bridge the gap between technology and business needs.
+
+🔥 Projects
+Here are some projects I’m working on to showcase my skills:
+- [Trade Data Analysis](link): A Python-based project analyzing international trade data and generating visual reports.
+- [Market Trend Scraper](link): A web scraper using BeautifulSoup and Scrapy to collect market data, visualized with Matplotlib.
+- [Personal Portfolio Website](link): A personal website built with HTML, CSS, and JavaScript to showcase my projects and skills.
+📫 How to Reach Me
+- Email: liud76942@gmail.com
+- LinkedIn: [Annie Liu](https://www.linkedin.com/in/your-profile)
+- GitHub: [Annie-anni](https://github.com/Annie-anni)
+- Personal Website: [https://annie-portfolio.com](https://annie-portfolio.com)
+
+😄 Pronouns
+She/Her
+
+⚡ Fun Fact
+Besides my passion for IT, I love exploring coffee culture, snowboarding, and learning new languages. I am fluent in Chinese and Japanese and am actively improving my English proficiency. I believe continuous learning and adaptability are key to personal and professional growth.
