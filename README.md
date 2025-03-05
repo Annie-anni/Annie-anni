@@ -24,7 +24,6 @@ Currently based in Japan, I am fluent in 'Chinese' and 'Japanese', with intermed
 
 📫 How to Reach Me
 - Email: liud76942@gmail.com
-- LinkedIn: [Annie Liu](https://www.linkedin.com/in/your-profile)
 - GitHub: [Annie-anni](https://github.com/Annie-anni)
 
 😄 Pronouns
