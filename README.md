@@ -23,7 +23,7 @@ Currently based in Japan, I am fluent in 'Chinese' and 'Japanese', with intermed
 - Leverage my sales experience to bridge the gap between technology and business needs.
 
 📫 How to Reach Me
-- Email: liud76942@gmail.com
+- Email: liudan.py@gmail.com
 - GitHub: [Annie-anni](https://github.com/Annie-anni)
 - Linkedln:https://www.linkedin.com/in/dan-liu-33aa70355/
 
